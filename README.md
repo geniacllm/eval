@@ -1,3 +1,7 @@
 # eval
 
-* WIP: MoE DPO datasets fine-tuning
+## SFT
+
+## DPO
+
+* WIP: MoE datasets fine-tuning
